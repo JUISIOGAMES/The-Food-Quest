@@ -15,7 +15,7 @@ public class InputManager : MonoBehaviour {
 
 	public KeyCode Left;
 	public KeyCode Right;
-	public KeyCode Up;
+    public KeyCode Up;
 
 	public bool LeftPressed()
 	{
